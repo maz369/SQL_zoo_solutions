@@ -26,7 +26,6 @@ SELECT continent, COUNT(name)
 FROM world
 GROUP BY continent
 
-
 --#7
 SELECT continent, COUNT(name)
 FROM world
