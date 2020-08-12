@@ -1,5 +1,5 @@
 --#1
-SELECT COUNT(*)
+SELECT COUNT(*) 
 FROM stops
 
 --#2
